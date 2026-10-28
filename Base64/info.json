@@ -1,0 +1,14 @@
+{
+	"name": "Base64",
+	"description": "This plugin allows Base64 encoding of messages",
+	"authors": [
+		"Wissididom"
+	],
+	"homepage": "https://github.com/Wissididom",
+	"tags": [
+		"Base64"
+	],
+	"version": "0.0.0",
+	"license": "MIT",
+	"permissions": []
+}
